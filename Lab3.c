@@ -2,6 +2,12 @@
 #include <stdlib.h>
 #include <math.h>
 
+/*
+Author: Vikas Nair
+
+Implementing functions to calculate cache specs and statistics for memory addresses.
+*/
+
 /*	Constants	*/
 #define ADDRS_LENGTH  64 /* address length */ 
 
