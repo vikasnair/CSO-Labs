@@ -1,5 +1,8 @@
 /*
 AUTHOR: Vikas Nair
+
+A series of trivial functions written in C.
+Demonstrates understanding of iterative and recursive programming, file I/O, and memory allocation in C.
  */
 
 #include <stdio.h>
